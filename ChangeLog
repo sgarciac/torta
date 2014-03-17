@@ -1,0 +1,19 @@
+2006-05-31  Sergio Garcia  <sergio.garcia@gmail.com>
+
+	* Added Alejandro Forero's algorythm to selecting colors
+
+2006-03-26  Sergio Garcia  <sergio.garcia@gmail.com>
+
+        * torta-0.3 release
+	* Reading the font tag as marshalled data instead of a lisp object
+	(the marshalled font data was produced using Zach Beane's zpb-ttf)
+
+2006-03-04  Sergio Garcia  <sergio.garcia@gmail.com>
+	
+	* torta-0.2 release
+	* Added max-depth functionality. 
+
+2006-02-07  Sergio Garcia  <sergio.garcia@gmail.com>
+
+        * torta-0.1 release
+	
